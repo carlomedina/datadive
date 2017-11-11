@@ -11,7 +11,7 @@ index <- as.numeric(options[1])
 print(index)
 
 path <- "./data/gun-fields"
-df <- load(paste0(path,"/urls.RData"))
+load(file = paste0(path,"/urls.RData"))
 
 
 
