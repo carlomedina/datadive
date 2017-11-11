@@ -11,7 +11,7 @@ index <- as.numeric(options[1])
 print(index)
 
 path <- "./data/gun-fields"
-df <- read_csv(paste0(path, "/urls.csv"))[,c(2,3)]
+df <- load("/urls.RData")
 
 
 
