@@ -38,21 +38,23 @@ getFields <- function(url) {
     return(fields)
 }
 
-fields <- data.frame(category = character(0),
-                     manufacturer = character(0),
+fields <- data.frame(action = character(0),
                      caliber = character(0),
-                     action = character(0),
+                     category = character(0),
+                     manufacturer = character(0),
                      type = character(0),
                      stringsAsFactors = F)
 
 starttime <- proc.time()
 for (i in (index):(index+99999)) {
   fields[i,] <- getFields(df$Url[i])
-  print(i)
   if (i %% 1000 == 0) {
+    print(i)
     save(fields, file = paste0("fields-", index, ".RData"))
+    gc()
   }
 }
+
 print(proc.time()-starttime)
 write.csv(fields, file = paste0("fields-", index, ".csv"), row.names = F)
 
