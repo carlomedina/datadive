@@ -1,101 +1,101 @@
-"","category","manufacturer","caliber","action","type"
-"1","Semi-automatic","223/5.56 NATO","Rifles",NA,NA
-"2",NA,NA,NA,NA,NA
-"3","Single Action","380 ACP","Handguns","Pistol","Sig Sauer"
-"4","Over and Under","12 Gauge","Shotguns","Shotgun","Browning"
-"5","Pump Action","243 Winchester","Rifles","Rifle","Remington"
-"6","Lever Action","30-30 Winchester","Rifles","Rifle","Winchester"
-"7","Lever Action","30-30 Winchester","Rifles","Rifle","Winchester"
-"8",NA,"9mm Luger (9x19)","Handguns","Pistol",NA
-"9","Semi-automatic","22 Long Rifle","Rifles",NA,"Ruger"
-"10","Pump Action","12 Gauge","Shotguns","Shotgun","Savage Arms"
-"11","Semi-automatic","22 Long Rifle","Rifles",NA,"Ruger"
-"12","Single Action",NA,"Handguns","Revolver","Colt"
-"13","Semi-automatic","223/5.56 NATO","Rifles","Rifle","Century International Arms"
-"14","Single Action","25 ACP","Handguns","Pistol",NA
-"15","Striker Fire","9mm Luger (9x19)","Handguns","Pistol","Walther"
-"16","Semi-automatic","40 S&W","Rifles","Rifle","Kel-Tec"
-"17",NA,NA,"Handguns",NA,"Century International Arms"
-"18","Striker Fire","9mm Luger (9x19)","Handguns","Pistol","Glock"
-"19","Single Action","45 ACP","Handguns","Pistol","Springfield"
-"20","Striker Fire",NA,"Handguns","Pistol","Glock"
-"21",NA,"9mm Luger (9x19)","Handguns","Pistol","Heckler & Koch"
-"22","Double Action","22 Long Rifle","Handguns","Pistol","Taurus"
-"23",NA,NA,NA,NA,NA
-"24","Single Action","45 ACP","Handguns","Pistol","Smith & Wesson"
-"25","Striker Fire","9mm Luger (9x19)","Handguns","Pistol","Ruger"
-"26","Semi-automatic","223/5.56 NATO","Rifles","Rifle",NA
-"27","Break Open","12 Gauge","Shotguns","Shotgun","Ithaca"
-"28","Double / Single Action","9mm Luger (9x19)","Handguns","Pistol",NA
-"29","Bolt Action","308/7.62 NATO","Rifles","Rifle","Winchester"
-"30","Semi-automatic","223/5.56 NATO","Rifles","Rifle","Robinson Armament"
-"31","Semi-automatic","308/7.62 NATO","Rifles","Rifle","DPMS"
-"32","Pump Action","12 Gauge","Shotguns","Shotgun","Savage Arms"
-"33","Lever Action","22 Long Rifle","Rifles","Rifle","Winchester"
-"34",NA,NA,NA,NA,NA
-"35",NA,"12 Gauge","Shotguns","Shotgun",NA
-"36","Semi-automatic","12 Gauge","Shotguns","Shotgun","Franchi"
-"37","Bolt Action","20 Gauge","Shotguns","Shotgun","Savage Arms"
-"38","Semi-automatic","243 Winchester","Rifles",NA,"Remington"
-"39",NA,"308/7.62 NATO","Rifles",NA,"Remington"
-"40",NA,"30-06 Springfield","Rifles","Rifle","Savage Arms"
-"41",NA,"223/5.56 NATO","Rifles",NA,NA
-"42",NA,"7mm Remington Magnum","Rifles",NA,"Ruger"
-"43",NA,"270 Winchester","Rifles",NA,"Ruger"
-"44",NA,NA,NA,NA,NA
-"45",NA,"30 Carbine","Rifles",NA,"Universal Firearms"
-"46",NA,"30-40 Krag","Rifles",NA,NA
-"47","Bolt Action","222 Remington","Rifles","Rifle","Remington"
-"48","Semi-automatic","22 Long Rifle","Rifles","Rifle","Ruger"
-"49",NA,NA,NA,NA,NA
-"50","Double / Single Action","38 S&W Special","Handguns","Revolver","Colt"
-"51",NA,"45 ACP","Rifles",NA,"Ed Brown"
-"52","Semi-automatic","7.62x39","Rifles",NA,NA
-"53","Double / Single Action","22 Long Rifle","Handguns","Pistol","Browning"
-"54",NA,"9mm Luger (9x19)","Handguns","Pistol","Ruger"
-"55",NA,NA,"Services",NA,NA
-"56","Double / Single Action",NA,"Handguns","Pistol","Ruger"
-"57","Striker Fire","9mm Luger (9x19)","Handguns","Pistol","Glock"
-"58",NA,NA,NA,NA,NA
-"59","Bolt Action","270 Winchester","Rifles","Rifle","Winchester"
-"60",NA,NA,"Handguns",NA,NA
-"61","Single Action","45 Long Colt","Handguns","Revolver","Uberti"
-"62","Striker Fire","40 S&W","Handguns","Pistol","Glock"
-"63","Striker Fire","22 Long Rifle","Handguns","Pistol",NA
-"64","Single Action","45 ACP","Handguns","Pistol","Kimber"
-"65","Single Action","45 ACP","Handguns","Pistol","Para Ordnance"
-"66","Striker Fire","45 ACP","Handguns","Pistol","Glock"
-"67","Pump Action","20 Gauge","Shotguns","Shotgun","Remington"
-"68","Double Action","9mm Luger (9x19)","Handguns","Pistol","Smith & Wesson"
-"69","Single Action","45 ACP","Handguns","Pistol","Para Ordnance"
-"70","Semi-automatic","22 Long Rifle","Rifles","Rifle","Ruger"
-"71","Lever Action","22 Long Rifle","Rifles","Rifle","Henry Repeating Arms"
-"72","Striker Fire","9mm Luger (9x19)","Handguns","Pistol","Walther"
-"73","Striker Fire","380 ACP","Handguns","Pistol","Glock"
-"74","Double / Single Action","38 S&W Special","Handguns","Revolver","Smith & Wesson"
-"75","Double / Single Action","9mm Luger (9x19)","Handguns","Pistol","Beretta USA"
-"76",NA,NA,"Rifles",NA,"Calico Weapons Systems"
-"77","Striker Fire","9mm Luger (9x19)","Handguns","Pistol","Springfield"
-"78",NA,"9mm Luger (9x19)","Handguns","Pistol",NA
-"79","Semi-automatic","22 Long Rifle","Rifles",NA,"Ruger"
-"80","Pump Action",NA,"Shotguns",NA,"Mossberg"
-"81",NA,NA,NA,NA,NA
-"82","Semi-automatic","7.62x39","Rifles","Rifle",NA
-"83","Semi-automatic","223/5.56 NATO","Rifles","Rifle","DPMS"
-"84",NA,NA,"Handguns","Pistol","Springfield"
-"85",NA,NA,NA,NA,NA
-"86",NA,NA,"Handguns",NA,"Glock"
-"87",NA,NA,NA,NA,NA
-"88","Single Shot","12 Gauge","Shotguns","Shotgun",NA
-"89","Pump Action","12 Gauge","Shotguns","Shotgun",NA
-"90",NA,NA,"Handguns",NA,NA
-"91","Semi-automatic","223/5.56 NATO","Rifles","Rifle","Colt"
-"92","Bolt Action","22 Long Rifle","Rifles","Rifle","Remington"
-"93",NA,NA,"Handguns","Pistol",NA
-"94","Striker Fire","9mm Luger (9x19)","Handguns","Pistol","Glock"
-"95","Semi-automatic","223/5.56 NATO","Rifles","Rifle","Smith & Wesson"
-"96","Striker Fire","9mm Luger (9x19)","Handguns","Pistol","Smith & Wesson"
-"97","Striker Fire","9mm Luger (9x19)","Handguns","Pistol","Glock"
-"98","Double / Single Action","9mm Luger (9x19)","Handguns","Pistol","Sig Sauer"
-"99","Double / Single Action","9mm Luger (9x19)","Handguns","Pistol","Heckler & Koch"
-"100","Bolt Action","308/7.62 NATO","Rifles","Rifle","Remington"
+"category","manufacturer","caliber","action","type"
+"Semi-automatic","223/5.56 NATO","Rifles",NA,NA
+NA,NA,NA,NA,NA
+"Single Action","380 ACP","Handguns","Pistol","Sig Sauer"
+"Over and Under","12 Gauge","Shotguns","Shotgun","Browning"
+"Pump Action","243 Winchester","Rifles","Rifle","Remington"
+"Lever Action","30-30 Winchester","Rifles","Rifle","Winchester"
+"Lever Action","30-30 Winchester","Rifles","Rifle","Winchester"
+NA,"9mm Luger (9x19)","Handguns","Pistol",NA
+"Semi-automatic","22 Long Rifle","Rifles",NA,"Ruger"
+"Pump Action","12 Gauge","Shotguns","Shotgun","Savage Arms"
+"Semi-automatic","22 Long Rifle","Rifles",NA,"Ruger"
+"Single Action",NA,"Handguns","Revolver","Colt"
+"Semi-automatic","223/5.56 NATO","Rifles","Rifle","Century International Arms"
+"Single Action","25 ACP","Handguns","Pistol",NA
+"Striker Fire","9mm Luger (9x19)","Handguns","Pistol","Walther"
+"Semi-automatic","40 S&W","Rifles","Rifle","Kel-Tec"
+NA,NA,"Handguns",NA,"Century International Arms"
+"Striker Fire","9mm Luger (9x19)","Handguns","Pistol","Glock"
+"Single Action","45 ACP","Handguns","Pistol","Springfield"
+"Striker Fire",NA,"Handguns","Pistol","Glock"
+NA,"9mm Luger (9x19)","Handguns","Pistol","Heckler & Koch"
+"Double Action","22 Long Rifle","Handguns","Pistol","Taurus"
+NA,NA,NA,NA,NA
+"Single Action","45 ACP","Handguns","Pistol","Smith & Wesson"
+"Striker Fire","9mm Luger (9x19)","Handguns","Pistol","Ruger"
+"Semi-automatic","223/5.56 NATO","Rifles","Rifle",NA
+"Break Open","12 Gauge","Shotguns","Shotgun","Ithaca"
+"Double / Single Action","9mm Luger (9x19)","Handguns","Pistol",NA
+"Bolt Action","308/7.62 NATO","Rifles","Rifle","Winchester"
+"Semi-automatic","223/5.56 NATO","Rifles","Rifle","Robinson Armament"
+"Semi-automatic","308/7.62 NATO","Rifles","Rifle","DPMS"
+"Pump Action","12 Gauge","Shotguns","Shotgun","Savage Arms"
+"Lever Action","22 Long Rifle","Rifles","Rifle","Winchester"
+NA,NA,NA,NA,NA
+NA,"12 Gauge","Shotguns","Shotgun",NA
+"Semi-automatic","12 Gauge","Shotguns","Shotgun","Franchi"
+"Bolt Action","20 Gauge","Shotguns","Shotgun","Savage Arms"
+"Semi-automatic","243 Winchester","Rifles",NA,"Remington"
+NA,"308/7.62 NATO","Rifles",NA,"Remington"
+NA,"30-06 Springfield","Rifles","Rifle","Savage Arms"
+NA,"223/5.56 NATO","Rifles",NA,NA
+NA,"7mm Remington Magnum","Rifles",NA,"Ruger"
+NA,"270 Winchester","Rifles",NA,"Ruger"
+NA,NA,NA,NA,NA
+NA,"30 Carbine","Rifles",NA,"Universal Firearms"
+NA,"30-40 Krag","Rifles",NA,NA
+"Bolt Action","222 Remington","Rifles","Rifle","Remington"
+"Semi-automatic","22 Long Rifle","Rifles","Rifle","Ruger"
+NA,NA,NA,NA,NA
+"Double / Single Action","38 S&W Special","Handguns","Revolver","Colt"
+NA,"45 ACP","Rifles",NA,"Ed Brown"
+"Semi-automatic","7.62x39","Rifles",NA,NA
+"Double / Single Action","22 Long Rifle","Handguns","Pistol","Browning"
+NA,"9mm Luger (9x19)","Handguns","Pistol","Ruger"
+NA,NA,"Services",NA,NA
+"Double / Single Action",NA,"Handguns","Pistol","Ruger"
+"Striker Fire","9mm Luger (9x19)","Handguns","Pistol","Glock"
+NA,NA,NA,NA,NA
+"Bolt Action","270 Winchester","Rifles","Rifle","Winchester"
+NA,NA,"Handguns",NA,NA
+"Single Action","45 Long Colt","Handguns","Revolver","Uberti"
+"Striker Fire","40 S&W","Handguns","Pistol","Glock"
+"Striker Fire","22 Long Rifle","Handguns","Pistol",NA
+"Single Action","45 ACP","Handguns","Pistol","Kimber"
+"Single Action","45 ACP","Handguns","Pistol","Para Ordnance"
+"Striker Fire","45 ACP","Handguns","Pistol","Glock"
+"Pump Action","20 Gauge","Shotguns","Shotgun","Remington"
+"Double Action","9mm Luger (9x19)","Handguns","Pistol","Smith & Wesson"
+"Single Action","45 ACP","Handguns","Pistol","Para Ordnance"
+"Semi-automatic","22 Long Rifle","Rifles","Rifle","Ruger"
+"Lever Action","22 Long Rifle","Rifles","Rifle","Henry Repeating Arms"
+"Striker Fire","9mm Luger (9x19)","Handguns","Pistol","Walther"
+"Striker Fire","380 ACP","Handguns","Pistol","Glock"
+"Double / Single Action","38 S&W Special","Handguns","Revolver","Smith & Wesson"
+"Double / Single Action","9mm Luger (9x19)","Handguns","Pistol","Beretta USA"
+NA,NA,"Rifles",NA,"Calico Weapons Systems"
+"Striker Fire","9mm Luger (9x19)","Handguns","Pistol","Springfield"
+NA,"9mm Luger (9x19)","Handguns","Pistol",NA
+"Semi-automatic","22 Long Rifle","Rifles",NA,"Ruger"
+"Pump Action",NA,"Shotguns",NA,"Mossberg"
+NA,NA,NA,NA,NA
+"Semi-automatic","7.62x39","Rifles","Rifle",NA
+"Semi-automatic","223/5.56 NATO","Rifles","Rifle","DPMS"
+NA,NA,"Handguns","Pistol","Springfield"
+NA,NA,NA,NA,NA
+NA,NA,"Handguns",NA,"Glock"
+NA,NA,NA,NA,NA
+"Single Shot","12 Gauge","Shotguns","Shotgun",NA
+"Pump Action","12 Gauge","Shotguns","Shotgun",NA
+NA,NA,"Handguns",NA,NA
+"Semi-automatic","223/5.56 NATO","Rifles","Rifle","Colt"
+"Bolt Action","22 Long Rifle","Rifles","Rifle","Remington"
+NA,NA,"Handguns","Pistol",NA
+"Striker Fire","9mm Luger (9x19)","Handguns","Pistol","Glock"
+"Semi-automatic","223/5.56 NATO","Rifles","Rifle","Smith & Wesson"
+"Striker Fire","9mm Luger (9x19)","Handguns","Pistol","Smith & Wesson"
+"Striker Fire","9mm Luger (9x19)","Handguns","Pistol","Glock"
+"Double / Single Action","9mm Luger (9x19)","Handguns","Pistol","Sig Sauer"
+"Double / Single Action","9mm Luger (9x19)","Handguns","Pistol","Heckler & Koch"
+"Bolt Action","308/7.62 NATO","Rifles","Rifle","Remington"

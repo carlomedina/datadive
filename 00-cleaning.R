@@ -45,15 +45,15 @@ fields <- data.frame(category = character(0),
                      type = character(0),
                      stringsAsFactors = F)
 
-
-for (i in (index):(index+99)) {
+starttime <- proc.time()
+for (i in (index):(index+99999)) {
   fields[i,] <- getFields(df$Url[i])
   print(i)
   if (i %% 1000 == 0) {
     save(fields, file = paste0("fields-", index, ".RData"))
   }
 }
-
+print(proc.time()-starttime)
 write.csv(fields, file = paste0("fields-", index, ".csv"), row.names = F)
 
 
